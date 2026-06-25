@@ -67,9 +67,9 @@ The goal of this project is to provide a clear and data-driven view of coffee sa
 
 This dashboard enables users to monitor coffee sales performance efficiently, uncover business trends, and make data-driven decisions through a visually appealing and interactive reporting solution.
 
-### Dashboard Preview
+### 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![Coffee Sales DashBoard](Coffee_Sales_DashBoard.png)
 
 ---
 
