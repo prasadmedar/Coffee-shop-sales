@@ -69,7 +69,7 @@ This dashboard enables users to monitor coffee sales performance efficiently, un
 
 ### 📷 Dashboard Preview
 
-![Coffee Sales DashBoard](Coffee_Sales_DashBoard.png)
+![Coffee Sales DashBoard](Coffee Sales DashBoard.png)
 
 ---
 
